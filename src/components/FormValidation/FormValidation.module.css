@@ -1,0 +1,24 @@
+.form-validation {
+  position: absolute;
+  width: 50vw;
+  background: red;
+  padding: 1em;
+  transform: translateX(-1em);
+  margin-top: 2em;
+}
+
+.form-validation h2 {
+  color: white;
+}
+
+.form-validation button {
+  padding: 0.5em 1em;
+  background: purple;
+  color: white;
+}
+
+.form-validation button:hover,
+.form-validation button:focus {
+  color: black;
+  cursor: pointer;
+}
